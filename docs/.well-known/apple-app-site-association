@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "5EH8QG4538.com.juul.app.develop",
+          "5EH8QG4538.com.juul.app.preproduction",
+          "5EH8QG4538.com.juul.app"
+        ],
+        "components": [
+          {
+            "/": "/oauth/auth_redirect",
+            "comment": "Matches the URL used during OAuth authorization code redirects"
+          },
+          {
+            "/": "/a/unlock/*",
+            "comment": "Matches the URL for device unlocking using the app"
+          }
+        ]
+      }
+    ]
+  }
+}
