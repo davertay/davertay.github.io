@@ -19,5 +19,19 @@
         ]
       }
     ]
+  },
+  "webcredentials": {
+    "apps": [
+      "5EH8QG4538.com.juul.app.develop",
+      "5EH8QG4538.com.juul.app.preproduction",
+      "5EH8QG4538.com.juul.app"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "5EH8QG4538.com.juul.app.develop.clip",
+      "5EH8QG4538.com.juul.app.preproduction.clip",
+      "5EH8QG4538.com.juul.app.clip"
+    ]
   }
 }
